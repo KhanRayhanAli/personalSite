@@ -1,0 +1,38 @@
+#topheader {
+    width: 11em;
+}
+
+#flag {
+    width: 15em;
+    padding-left: 1em;
+    float: right;
+}
+
+p {
+    text-indent: 25px;
+    text-align: justify;
+}
+
+.header{
+    border-bottom: 2px solid;
+    width: 5em;
+}
+
+.parts {
+    margin-top: 1em;
+}
+
+#gamegear {
+    width: 20em;
+    padding-right: 1em;
+    float: left;
+}
+
+#play {
+    width: 10em;
+    float: right;
+}
+
+.AI {
+    width: 14em;
+}
